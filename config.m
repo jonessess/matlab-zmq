@@ -9,7 +9,7 @@
 ZMQ_COMPILED_LIB = 'libzmq.a';
 
 % ZMQ library path
-ZMQ_LIB_PATH = '/usr/local/Cellar/zeromq/4.0.4/lib/';
+ZMQ_LIB_PATH = '/usr/local/Cellar/zeromq/4.3.4/lib/';
 
 % ZMQ headers path
-ZMQ_INCLUDE_PATH = '/usr/local/Cellar/zeromq/4.0.4/include/';
+ZMQ_INCLUDE_PATH = '/usr/local/Cellar/zeromq/4.3.4/include/';
